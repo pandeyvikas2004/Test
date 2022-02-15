@@ -11,7 +11,7 @@ pipeline {
       }*/
       
       steps{
-        echo "Hello Word"
+        echo "Hello Word I am vikas pandey"
       }
     }
   }
